@@ -181,12 +181,12 @@ const Main = () => {
           />
         </div>
         <br />
-        {/* <div
+        <div
           style={{ height: "480px", paddingLeft: "50px", paddingRight: "50px" }}
           className="border-2 border-dashed border-300"
         >
           <DynamicMap lat={lat || undefined} long={long || undefined} />
-        </div> */}
+        </div>
       </div>
       {/* Map End */}
       {/* <div className="grid grid-nogutter surface-0 text-800">
