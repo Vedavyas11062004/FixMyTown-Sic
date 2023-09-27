@@ -169,16 +169,16 @@ const Main = () => {
       {/* Start of Map */}
       <div className="surface-0 p-8 shadow-2 border-round pt-5 pb-3">
         <div className="surface-0 text-700 text-center">
-          {/* <div className="text-900 font-bold text-5xl pt-3 mb-3">
+          <div className="text-900 font-bold text-5xl pt-3 mb-3">
           potholes near you?
-          </div> */}
-          {/* <Button
+          </div>
+          <Button
             label="Report to us"
             onClick={() => {
               router.push("/report");
             }}
             className="font-bold px-5 py-3 p-button-raised p-button-rounded white-space-nowrap"
-          /> */}
+          />
         </div>
         <br />
         {/* <div
